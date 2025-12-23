@@ -1,4 +1,13 @@
 payload:
+  - DOMAIN,apis.roblox.com
+  - DOMAIN,locale,roblox.com
+  - DOMAIN,lms.roblox.com
+  - DOMAIN,ecsv2.roblox.com
+  - DOMAIN,ephemeralcounters.api.roblox
+  - DOMAIN,thumbnails.roblox.com
+  - DOMAIN,friends.roblox.com
+  - DOMAIN,users.roblox.com
+  - DOMAIN,assetdelivery.roblox.com
   - DOMAIN-SUFFIX,cloudflare-ech.com
   - DOMAIN-SUFFIX,encryptedsni.com
   - DOMAIN-SUFFIX,cloudflareaccess.com
