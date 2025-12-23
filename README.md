@@ -18,6 +18,8 @@ rule-providers:
     interval: 86400
 
 rules:
+  - PROCESS-NAME-REGEX,(?i)sober,PROXY
+  - PROCESS-NAME-REGEX,(?i)roblox,PROXY
   - RULE-SET,roblox_domains,PROXY
   - RULE-SET,roblox_CIDR4,PROXY
 ```
