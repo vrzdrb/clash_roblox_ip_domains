@@ -243,6 +243,7 @@ payload:
   - DOMAIN-SUFFIX,secure.llnwd.net
   - DOMAIN-SUFFIX,roblox.qq.com
   - DOMAIN-SUFFIX,roblox.cn
+  - DOMAIN-SUFFIX,roblox.сom  
   - DOMAIN-KEYWORD,rbxcdn
   - DOMAIN-KEYWORD,roblox
   - DOMAIN-KEYWORD,robloxlabs
