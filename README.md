@@ -16,4 +16,8 @@ rule-providers:
     url: https://raw.githubusercontent.com/vrzdrb/clash_roblox_ip_domains/refs/heads/main/roblox-ip.yaml
     path: ./opencck/IP-CIDR_clash_rules.yaml
     interval: 86400
+
+rules:
+  - RULE-SET,roblox_domains,PROXY
+  - RULE-SET,roblox_CIDR4,PROXY
 ```
