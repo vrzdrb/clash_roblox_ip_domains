@@ -243,11 +243,12 @@ payload:
   - DOMAIN-SUFFIX,secure.llnwd.net
   - DOMAIN-SUFFIX,roblox.qq.com
   - DOMAIN-SUFFIX,roblox.cn
-  - DOMAIN-SUFFIX,roblox.сom  
-  - DOMAIN-KEYWORD,rbxcdn
-  - DOMAIN-KEYWORD,roblox
-  - DOMAIN-KEYWORD,robloxlabs
-  - DOMAIN-KEYWORD,robloxapp
-  - DOMAIN-KEYWORD,robloxgames
-  - DOMAIN-KEYWORD,rbx
-  - DOMAIN-KEYWORD,rblx
+  - DOMAIN-SUFFIX,roblox.сom
+  - DOMAIN,clientsettingscdn.roblox.com
+  - DOMAIN-KEYWORD,rbxcdn,auto
+  - DOMAIN-KEYWORD,roblox,auto
+  - DOMAIN-KEYWORD,robloxlabs,auto
+  - DOMAIN-KEYWORD,robloxapp,auto
+  - DOMAIN-KEYWORD,robloxgames,auto
+  - DOMAIN-KEYWORD,rbx,auto
+  - DOMAIN-KEYWORD,rblx,auto
